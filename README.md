@@ -20,8 +20,8 @@ My second frontend mentor challenge.
 
 ### Links
 
-- Solution URL: [Git repo url](https://your-solution-url.com)
-- Live Site URL: [Git live url](https://your-live-site-url.com)
+- Solution URL: [Git repo url](https://github.com/Plut0r/Qr-component)
+- Live Site URL: [Git live url](https://plut0r.github.io/Qr-component/)
 
 ### Built with
 
